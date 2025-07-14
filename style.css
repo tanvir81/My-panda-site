@@ -1,0 +1,19 @@
+/* Navigation */
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.search-parent {
+}
+.search-parent input {
+  background: rgb(241, 241, 241);
+  width: 500px;
+  padding: 15px 90px;
+  border-radius: 66px;
+}
+
+.search-parent i {
+  position: relative;
+  top: 0;
+}
